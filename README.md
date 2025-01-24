@@ -47,7 +47,7 @@
   <input id="impression" name="impression" type="button" onclick="imprimer_page()" value="Imprimer cette page" />
  </form>
  <hr>
- <h1 id="para11" ><p   id="impression"><a href="https://23tr-an05.github.io/C2/">Exemple de dissertation</a></p></h1>
+ <h1 id="para11" ><p   id="impression"><a href="https://23tr-an05.github.io/C2/">Exemple d'explication de texte</a></p></h1>
  
  <hr> 
  <script type="text/javascript">
